@@ -1,0 +1,32 @@
+.aboutMe {
+  background-color: #1b1b1b;
+  color: #f1f1f1;
+  padding: 20px;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+
+.text {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.imagePlaceholder {
+  width: 100%;
+  height: 200px;
+  background-color: #3a3a3a;
+}

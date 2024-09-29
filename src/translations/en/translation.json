@@ -1,0 +1,31 @@
+{
+  "about": "About Me",
+  "about_description": "I am a passionate developer, constantly looking for new challenges. My focus is on delivering high-quality projects with attention to detail.",
+  "skills": "Skills and Technologies",
+  "skills_list": {
+    "item1": "Responsive/Adaptive design",
+    "item2": "HTML5/CSS3/SASS",
+    "item3": "JavaScript",
+    "item4": "React",
+    "item5": "Node.js",
+    "item6": "Redux",
+    "item7": "REST API"
+  },
+  "works": "Project Examples",
+  "works_description": "Below you can find some of my work examples, representing different types of projects I have completed.",
+  "testimonials": "Testimonials",
+  "testimonials_description": "Here are some words from clients and colleagues about my work and dedication.",
+  "resume": "Resume",
+  "resume_description": "Download my resume to learn more about my career and experience.",
+  "contact": "Contact Me",
+  "contact_description": "Feel free to reach out to me through any of the methods listed below. I look forward to connecting with you.",
+  "contact_form": {
+    "name_placeholder": "Your Name",
+    "email_placeholder": "Your Email",
+    "message_placeholder": "Your Message",
+    "submit_button": "Send"
+  },
+  "social_links": "Find me on social media",
+  "messengers": "Reach me via messengers",
+  "footerText": "All rights reserved."
+}
